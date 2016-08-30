@@ -78,11 +78,11 @@ div#top-status {
 #about-seg .collapsible-body {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 #about-text-seg{
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
 }
 #about-seg span, h4 {
   color: #00b0ff ; 
