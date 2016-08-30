@@ -35,6 +35,9 @@ header {
 #tb-central-content img {
   max-height: 1.2rem;
 }
+#tb-central-content p{
+  margin: 0;
+}
 /*TOP Fake Terminal Bar**************************************/
 /*TOP Fake Terminal Bar**************************************/
 /*TOP Fake Terminal Bar**************************************/
